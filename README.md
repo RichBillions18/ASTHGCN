@@ -1,3 +1,2 @@
 # ASTHGCN
-Since the paper is under review, the open source code will be published when the review is completed.
 Coming soon...
